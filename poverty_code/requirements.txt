@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-gpu
+pandas
+scikit-learn
+numpy
+matplotlib
+scipy
+torch
